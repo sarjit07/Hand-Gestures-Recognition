@@ -1,5 +1,5 @@
-## Hand-Gestures-Recognition using OpenCV, Keras, CNN 
-Hand Gestures Recognition with Convolutional Neural Network
+# Hand-Gestures-Recognition  
+Hand Gestures Recognition using OpenCV, Keras, Convolutional Neural Networks
 
 ## Repo Content:
 - **cam_run.py** : Contains the main method which would start the Video Capture, segment the hand region, pass on the thresholded image to the CNN model, and predict the hand gesture from LIVE camera feed.
